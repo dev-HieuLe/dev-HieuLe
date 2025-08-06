@@ -4,7 +4,7 @@ I'm a 16-year-old full-stack web developer who enjoys building real-world applic
 
 ---
 
-## SarangXanh – Eco-Friendly Shopping Platform (Team Project)
+## SarangXanh –  Full-Stack Website for Vietnamese Environmental Organization (Team Project)
 
 [View Project Repository](https://github.com/kerbthecurb/SarangXanh.git)
 
