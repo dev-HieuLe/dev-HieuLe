@@ -1,6 +1,6 @@
 # Hi, I'm Hieu Le
 
-I'm a 16-year-old full-stack web developer who enjoys building real-world applications that are fast, secure, and practical. I love turning ideas into working systems, especially when I get to focus on backend architecture and well-structured user interfaces.
+I'm a 16-year-old full-stack web developer who enjoys building real, useful websites that are fast, secure, and easy to use. I love turning ideas into working products—from designing clean user interfaces to building solid backend systems that make everything run smoothly.
 
 ---
 
@@ -19,6 +19,9 @@ A full-stack website built for SarangXanh, a Vietnamese non-profit environmental
 - Integrated **React data visualization libraries** to display graphs from the database
 - **Designed and developed the homepage**, including responsive layout and animation — the most complex part of the frontend
 - Used GitHub Desktop to coordinate **version control** and **team merges**
+  
+**> 📄 For a full breakdown of code structure, API routes, file roles, and admin-dashboard logic, [view my full technical contributions here](https://github.com/kerbthecurb/SarangXanh/blob/main/Docs/Hieu-contributions.md)
+.**
 
 Although I didn’t create the repository, I contributed **over 50% of the codebase** and handled the **most technically challenging parts** of the project.
 
