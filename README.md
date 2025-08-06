@@ -8,7 +8,10 @@ I'm a 16-year-old full-stack web developer who enjoys building real, useful webs
 
 [View Project Repository](https://github.com/kerbthecurb/SarangXanh.git)
 
-A full-stack website built for SarangXanh, a Vietnamese non-profit environmental organization.
+A full-stack website built for SarangXanh, a Vietnamese non-profit environmental organization using:
+Frontend: ReactJS
+Backend: NodeJS & Express
+DataBase: MySQL
 
 **My contributions:**
 
