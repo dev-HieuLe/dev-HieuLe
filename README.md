@@ -6,7 +6,7 @@ I'm a 16-year-old full-stack web developer who enjoys building real, useful webs
 
 ## SarangXanh –  Full-Stack Website for Vietnamese Environmental Organization (Team Project)
 
-[View Project Repository](https://github.com/kerbthecurb/SarangXanh.git)
+[View Project Repository](https://github.com/dev-HieuLe/SarangXanh.git)
 
 A full-stack website built for **SarangXanh**, a Vietnamese non-profit environmental organization using:
 
@@ -25,7 +25,7 @@ A full-stack website built for **SarangXanh**, a Vietnamese non-profit environme
 - **Designed and developed the homepage**, including responsive layout and animation — the most complex part of the frontend
 - Used GitHub Desktop to coordinate **version control** and **team merges**
   
-**> 📄 For a full breakdown of code structure, API routes, file roles, and admin-dashboard logic, [view my full technical contributions here](https://github.com/kerbthecurb/SarangXanh/blob/main/Docs/Hieu-contributions.md)
+**> 📄 For a full breakdown of code structure, API routes, file roles, and admin-dashboard logic, [view my full technical contributions here](https://github.com/dev-HieuLe/SarangXanh/blob/main/Docs/Hieu-contributions.md)
 .**
 
 Although I didn’t create the repository, I contributed **over 50% of the codebase** and handled the **most technically challenging parts** of the project.
