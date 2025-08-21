@@ -1,6 +1,6 @@
 # Hi, I'm Hieu Le
 
-I'm a 16-year-old full-stack web developer who enjoys building real, useful websites that are fast, secure, and easy to use. I love turning ideas into working products—from designing clean user interfaces to building solid backend systems that make everything run smoothly.
+I'm a 17-year-old full-stack web developer who enjoys building real, useful websites that are fast, secure, and easy to use. I love turning ideas into working products—from designing clean user interfaces to building solid backend systems that make everything run smoothly.
 
 ---
 
